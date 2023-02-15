@@ -8,11 +8,7 @@ import Sidebar from './component/Sidebar';
 function App() {
   return (
     <div className="App">
-        {/* <Router>
-          <Switch>
-            
-          </Switch>
-        </Router> */}
+        
 
 
       <Header />
